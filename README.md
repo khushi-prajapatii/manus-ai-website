@@ -7,3 +7,7 @@ This project is an experiment to explore how AI can generate and deploy a comple
 Instead of manually writing the code, I used Manus AI to create a fully functional website and then explored the generated project structure, source code, and deployment process.
 
 This repository documents the generated source code along with the live website and screenshots.
+
+## Prompt Used
+
+Create a website for finding the best vegetarian Indian recipes.
