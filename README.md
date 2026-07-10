@@ -11,3 +11,9 @@ This repository documents the generated source code along with the live website 
 ## Prompt Used
 
 Create a website for finding the best vegetarian Indian recipes.
+
+---
+
+## Website Preview
+
+![s1](s1.png)
