@@ -16,4 +16,4 @@ Create a website for finding the best vegetarian Indian recipes.
 
 ## Website Preview
 
-![s1](s1.png)
+![s1](screenshot/s1.png)
